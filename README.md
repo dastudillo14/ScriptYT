@@ -1,4 +1,3 @@
-COMANDOS
         sudo apt update
         sudo pip install youtube_dl
         sudo apt-get install ffmpeg
