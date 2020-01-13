@@ -1,23 +1,16 @@
---------<<COMANDOS>>--------
-- sudo apt update
-- sudo pip install youtube_dl
-- sudo apt-get install ffmpeg
------------------------------
-Distribuciòn usada: UBUNTU 18.04
-Version de Python : 2.7.15+
-------------NOTA------------
+COMANDOS
+        sudo apt update
+        sudo pip install youtube_dl
+        sudo apt-get install ffmpeg
+
 -ESCRIBIR EN UNA SOLA LINEA LOS URL
 -SEPARAR POR COMA < , > CADA URL
 -AGREGAR AL FINAL LA COMA < , >
 -NO HACER SALTOS DE LINEA
 -LOS ARCHIVO mp3 SE ALMACENAN EN LA MISMA RUTA DEL SCRIPT <<yt.py>>
-----------------------------
-Dudas o Aportes:
-https://www.facebook.com/dantee.mauri
 
-Git: 
-https://github.com/mauricio1499
-
+Distribuciòn usada: UBUNTU 18.04
+Version de Python : 2.7.15+
 
 | ___ \      _                             (_)    (_)     /  |  /   ||  _  ||  _  |
 | |_/ /_   _(_)  _ __ ___   __ _ _   _ _ __ _  ___ _  ___ `| | / /| || |_| || |_| |
